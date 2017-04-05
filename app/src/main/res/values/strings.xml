@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Riddle me this</string>
+    <string name="submit_button">Submit</string>
+    <string name="question_1_title">Question One</string>
+    <string name="question_2_title">Question Two</string>
+    <string name="question_3_title">Question Three</string>
+    <string name="question_4_title">Question Four</string>
+    <string name="question_5_title">Question Five</string>
+    <string name="question_6_title">Question Six</string>
+    <string name="question_7_title">Question Seven</string>
+    <string name="question_1_body">How many roads must a man walk...</string>
+    <string name="question_2_body">How does the chicken cross the road?</string>
+    <string name="question_3_body">How many roads must a man walk...</string>
+    <string name="question_4_body">How many roads must a man walk...</string>
+    <string name="question_5_body">How many roads must a man walk...</string>
+    <string name="question_6_body">How many roads must a man walk...</string>
+    <string name="question_7_body">How many roads must a man walk...</string>
+    <string name="Q1A1">One</string>
+    <string name="Q1A2">Two</string>
+    <string name="Q1A3">Three</string>
+    <string name="Q1A4">Four</string>
+
+    <string name="Q2A1">One</string>
+    <string name="Q2A2">Two</string>
+    <string name="Q2A3">Three</string>
+    <string name="Q2A4">Four</string>
+
+    <string name="Q3A1">One</string>
+    <string name="Q3A2">Two</string>
+    <string name="Q3A3">Three</string>
+    <string name="Q3A4">Four</string>
+
+    <string name="Q4A1">One</string>
+    <string name="Q4A2">Two</string>
+    <string name="Q4A3">Three</string>
+    <string name="Q4A4">Four</string>
+
+    <string name="Q5A1">One</string>
+    <string name="Q5A2">Two</string>
+    <string name="Q5A3">Three</string>
+    <string name="Q5A4">Four</string>
+
+    <string name="Q6A1">One</string>
+    <string name="Q6A2">Two</string>
+    <string name="Q6A3">Three</string>
+    <string name="Q6A4">Four</string>
+
+    <string name="Q7A1">One</string>
+    <string name="Q7A2">Two</string>
+    <string name="Q7A3">Three</string>
+    <string name="Q7A4">Four</string>
+
+</resources>
