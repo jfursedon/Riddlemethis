@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Riddle me this</string>
+
     <string name="submit_button">Submit</string>
+
     <string name="question_1_title">Question One</string>
     <string name="question_2_title">Question Two</string>
     <string name="question_3_title">Question Three</string>
@@ -8,46 +10,59 @@
     <string name="question_5_title">Question Five</string>
     <string name="question_6_title">Question Six</string>
     <string name="question_7_title">Question Seven</string>
-    <string name="question_1_body">How many roads must a man walk...</string>
-    <string name="question_2_body">How does the chicken cross the road?</string>
-    <string name="question_3_body">How many roads must a man walk...</string>
-    <string name="question_4_body">How many roads must a man walk...</string>
-    <string name="question_5_body">How many roads must a man walk...</string>
-    <string name="question_6_body">How many roads must a man walk...</string>
-    <string name="question_7_body">How many roads must a man walk...</string>
-    <string name="Q1A1">One</string>
-    <string name="Q1A2">Two</string>
-    <string name="Q1A3">Three</string>
-    <string name="Q1A4">Four</string>
+    <string name="question_8_title">Question Eight</string>
+    <string name="question_9_title">Question Eight</string>
 
-    <string name="Q2A1">One</string>
-    <string name="Q2A2">Two</string>
-    <string name="Q2A3">Three</string>
-    <string name="Q2A4">Four</string>
+    <string name="question_1_body">When asked how old she was, Suzie replied "In two years I will be twice as old as I was five years ago". How old is she?</string>
+    <string name="question_2_body">You throw away the outside and cook the inside. Then you eat the outside and throw away the inside. What did you eat?</string>
+    <string name="question_3_body">What can run but never walks, has a mouth but never talks, has a head but never weeps, and has a bed but never sleeps?</string>
+    <string name="question_4_body">A man pushed his car past a hotel, only to realise he was bankrupt. How did he figure this out? (He did not have his wallet on him, or in the car)</string>
+    <string name="question_5_body">If Teresa\'s Daughter is my daughter\'s mother, what am I to Teresa?</string>
+    <string name="question_6_body">How can a man go eight days without sleep?</string>
+    <string name="question_7_body">Which there is correct</string>
+    <string name="question_8_body">Select all statements that are true</string>
+    <string name="question_9_body">Write colour the American way.</string>
 
-    <string name="Q3A1">One</string>
-    <string name="Q3A2">Two</string>
-    <string name="Q3A3">Three</string>
-    <string name="Q3A4">Four</string>
+    <string name="Q1A1">12</string>
+    <string name="Q1A2">10</string>
+    <string name="Q1A3">5</string>
+    <string name="Q1A4">14</string>
 
-    <string name="Q4A1">One</string>
-    <string name="Q4A2">Two</string>
-    <string name="Q4A3">Three</string>
-    <string name="Q4A4">Four</string>
+    <string name="Q2A1">Pistachio Nuts</string>
+    <string name="Q2A2">Potato</string>
+    <string name="Q2A3">Ear of Corn</string>
+    <string name="Q2A4">Watermelon</string>
 
-    <string name="Q5A1">One</string>
-    <string name="Q5A2">Two</string>
-    <string name="Q5A3">Three</string>
-    <string name="Q5A4">Four</string>
+    <string name="Q3A1">Volcano</string>
+    <string name="Q3A2">Cheetah</string>
+    <string name="Q3A3">Tree</string>
+    <string name="Q3A4">River</string>
 
-    <string name="Q6A1">One</string>
-    <string name="Q6A2">Two</string>
-    <string name="Q6A3">Three</string>
-    <string name="Q6A4">Four</string>
+    <string name="Q4A1">He was mugged</string>
+    <string name="Q4A2">He was playing a board game</string>
+    <string name="Q4A3">His pockets were empty</string>
+    <string name="Q4A4">There was a text alert</string>
 
-    <string name="Q7A1">One</string>
-    <string name="Q7A2">Two</string>
-    <string name="Q7A3">Three</string>
-    <string name="Q7A4">Four</string>
+    <string name="Q5A1">Grandmother</string>
+    <string name="Q5A2">Mother</string>
+    <string name="Q5A3">Daughter</string>
+    <string name="Q5A4">I am Teresa</string>
+
+    <string name="Q6A1">Energy drinks</string>
+    <string name="Q6A2">Coffee</string>
+    <string name="Q6A3">Constant physical exercise</string>
+    <string name="Q6A4">He goes to work during the day</string>
+
+    <string name="Q7A1">Which their?</string>
+    <string name="Q7A2">Which they\'re.</string>
+    <string name="Q7A3">Which there</string>
+    <string name="Q7A4">Witch, there!</string>
+
+    <string name="Q8A1">None of these statements are true</string>
+    <string name="Q8A2">Exactly one of these statements is true</string>
+    <string name="Q8A3">Exactly two of these statements are true</string>
+    <string name="Q8A4">All of these statements are true</string>
+
+    <string name="Q9A1">Enter your answer here</string>
 
 </resources>
